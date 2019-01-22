@@ -6,17 +6,17 @@ A Working Project for Humber College Course GAME 254
 ### Compainon App
 
 ###### App Purpose
-• Purpose / Value of the app for the user / Discuss a few use cases
+- Purpose / Value of the app for the user / Discuss a few use cases
 
 
 
 ###### User Path 
-• Explain user path between pages & search / link mechanics  
+- Explain user path between pages & search / link mechanics  
 
 
 
 ###### Capstone Description
-• Give a general description of the capstone project that this compainon app is linked to.
+- Give a general description of the capstone project that this compainon app is linked to.
 
 
 ###### Layout
