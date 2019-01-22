@@ -1,0 +1,947 @@
+﻿Log file open, 01/21/19 22:10:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Humber_Game254
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222480
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.122s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Ryan/Documents/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.22-03.10.40:101][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.22-03.10.40:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:102][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:116][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.22-03.10.40:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.22-03.10.40:117][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.22-03.10.40:117][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.22-03.10.40:117][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.22-03.10.40:134][  0]LogHAL: Display: Platform has ~ 16 GB [17120346112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.22-03.10.40:134][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.22-03.10.40:134][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.22-03.10.40:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.22-03.10.40:135][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.22-03.10.40:136][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.22-03.10.40:136][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.01.22-03.10.40:136][  0]LogInit: Computer: RYAN-PC
+[2019.01.22-03.10.40:136][  0]LogInit: User: Ryan
+[2019.01.22-03.10.40:136][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.22-03.10.40:136][  0]LogInit: High frequency timer resolution =3.125002 MHz
+[2019.01.22-03.10.40:136][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.22-03.10.40:136][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.22-03.10.40:136][  0]LogMemory: Process Physical Memory: 102.71 MB used, 102.71 MB peak
+[2019.01.22-03.10.40:136][  0]LogMemory: Process Virtual Memory: 92.79 MB used, 92.79 MB peak
+[2019.01.22-03.10.40:136][  0]LogMemory: Physical Memory: 4421.54 MB used,  11905.70 MB free, 16327.23 MB total
+[2019.01.22-03.10.40:136][  0]LogMemory: Virtual Memory: 4636.11 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.22-03.10.40:268][  0]LogInit: Using OS detected language (en-US).
+[2019.01.22-03.10.40:268][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.22-03.10.40:269][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.22-03.10.40:738][  0]LogStreaming: Display: Took  0.470s to InitEngineTextLocalization.
+[2019.01.22-03.10.40:738][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.22-03.10.40:808][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.22-03.10.40:808][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.22-03.10.42:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.22-03.10.42:947][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.22-03.10.42:985][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2019.01.22-03.10.42:985][  0]LogD3D11RHI:       3052/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.01.22-03.10.42:987][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.22-03.10.42:987][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.22-03.10.42:987][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.22-03.10.42:994][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.22-03.10.42:994][  0]LogD3D11RHI:     GPU DeviceId: 0x679a (for the marketing name, search the web for "GPU Device Id")
+[2019.01.22-03.10.42:994][  0]LogWindows: EnumDisplayDevices:
+[2019.01.22-03.10.42:994][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2019.01.22-03.10.42:995][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2019.01.22-03.10.42:995][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:996][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:996][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:997][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:997][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:998][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.01.22-03.10.42:998][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.01.22-03.10.42:998][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2019.01.22-03.10.42:998][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 18.12.2 (internal:25.20.15002.58, unified:25.20.15002.58)
+[2019.01.22-03.10.42:998][  0]LogD3D11RHI:      Driver Date: 12-6-2018
+[2019.01.22-03.10.42:998][  0]LogRHI: Texture pool is 2136 MB (70% of 3052 MB)
+[2019.01.22-03.10.43:054][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.22-03.10.43:066][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.01.22-03.10.43:413][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.22-03.10.43:427][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.22-03.10.43:441][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.22-03.10.43:455][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.22-03.10.43:474][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.22-03.10.43:488][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.22-03.10.43:502][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.22-03.10.43:516][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.22-03.10.43:523][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.22-03.10.43:608][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.22-03.10.43:677][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.22-03.10.43:677][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.22-03.10.43:701][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.22-03.10.43:701][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.22-03.10.43:713][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.22-03.10.43:726][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.22-03.10.43:739][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.22-03.10.43:759][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.22-03.10.43:809][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.22-03.10.43:809][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.22-03.10.43:809][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.22-03.10.43:905][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../GitHub/GAME_254/Humber_Game254/Intermediate/Shaders/WorkingDirectory/6252/).
+[2019.01.22-03.10.43:906][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/3F01376E44DEA550F4E958951DBA141B/'.
+[2019.01.22-03.10.43:909][  0]LogXGEController: Cleaning working directory: C:/Users/Ryan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.22-03.10.43:909][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.22-03.10.43:909][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.22-03.10.43:909][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.22-03.10.44:452][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/GAME_254/Humber_Game254/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/GAME_254/Humber_Game254/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.22-03.10.44:538][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.22-03.10.44:557][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.22-03.10.44:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.22-03.10.44:557][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.22-03.10.44:569][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.22-03.10.44:569][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.22-03.10.44:569][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.22-03.10.44:591][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.22-03.10.44:593][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.22-03.10.44:607][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.22-03.10.44:828][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2019.01.22-03.10.45:156][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.22-03.10.45:375][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.22-03.10.45:380][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.22-03.10.45:380][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.22-03.10.45:380][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.22-03.10.45:380][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.22-03.10.45:416][  0]LogNetVersion: Humber_Game254 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4266805273)
+[2019.01.22-03.10.46:409][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099414 seconds
+[2019.01.22-03.10.46:416][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.22-03.10.46:416][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.22-03.10.46:416][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.22-03.10.48:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.22-03.10.48:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.22-03.10.49:689][  0]SourceControl: Source control is disabled
+[2019.01.22-03.10.49:689][  0]SourceControl: Source control is disabled
+[2019.01.22-03.10.49:691][  0]SourceControl: Source control is disabled
+[2019.01.22-03.10.49:692][  0]SourceControl: Source control is disabled
+[2019.01.22-03.10.49:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.22-03.10.50:033][  0]LogOcInput: OculusInput pre-init called
+[2019.01.22-03.10.50:194][  0]LogEngine: Initializing Engine...
+[2019.01.22-03.10.50:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.22-03.10.50:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.22-03.10.50:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.22-03.10.50:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.22-03.10.50:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.22-03.10.50:589][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.22-03.10.50:606][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.22-03.10.50:637][  0]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.22-03.10.50:676][  0]LogInit: FAudioDevice initialized.
+[2019.01.22-03.10.50:677][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.22-03.10.50:760][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.22-03.10.50:776][  0]LogInit: Texture streaming: Enabled
+[2019.01.22-03.10.50:798][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.22-03.10.50:815][  0]LogInit: Transaction tracking system initialized
+[2019.01.22-03.10.50:847][  0]BlueprintLog: New page: Editor Load
+[2019.01.22-03.10.50:951][  0]LocalizationService: Localization service is disabled
+[2019.01.22-03.10.51:657][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.22-03.10.51:657][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.22-03.10.51:657][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.22-03.10.51:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.22-03.10.51:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.22-03.10.51:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.22-03.10.51:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.22-03.10.51:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/' took 0.03s
+[2019.01.22-03.10.51:865][  0]SourceControl: Source control is disabled
+[2019.01.22-03.10.51:865][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.22-03.10.51:865][  0]LightingResults: New page: Lighting Build
+[2019.01.22-03.10.51:869][  0]MapCheck: New page: Map Check
+[2019.01.22-03.10.51:869][  0]LightingResults: New page: Lighting Build
+[2019.01.22-03.10.54:696][  0]LogAIModule: Creating AISystem for world Terrain
+[2019.01.22-03.10.54:990][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_Grass.M_Cave_Grass needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.54:993][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Grass, compiling. 
+[2019.01.22-03.10.55:100][  0]MapCheck: Warning: M_Cave_Grass Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_Grass.M_Cave_Grass was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:103][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Grass, compiling. 
+[2019.01.22-03.10.55:152][  0]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.01.22-03.10.55:152][  0]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.22-03.10.55:152][  0]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.22-03.10.55:152][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree02.M_Soul_Tree02 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:155][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Tree02, compiling. 
+[2019.01.22-03.10.55:201][  0]MapCheck: Warning: M_Soul_Tree02 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree02.M_Soul_Tree02 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:202][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Leaves.M_Soul_Leaves needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:204][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2019.01.22-03.10.55:250][  0]MapCheck: Warning: M_Soul_Leaves Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Leaves.M_Soul_Leaves was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:252][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2019.01.22-03.10.55:300][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_TwistedTree.M_Soul_TwistedTree needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:302][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_TwistedTree, compiling. 
+[2019.01.22-03.10.55:333][  0]MapCheck: Warning: M_Soul_TwistedTree Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_TwistedTree.M_Soul_TwistedTree was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:333][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Bark.M_Aspen_Tree_Bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:336][  0]LogMaterial: Display: Missing cached shader map for material M_Aspen_Tree_Bark, compiling. 
+[2019.01.22-03.10.55:367][  0]MapCheck: Warning: M_Aspen_Tree_Bark Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Bark.M_Aspen_Tree_Bark was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:367][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Unlit_Blowing.M_Aspen_Tree_Unlit_Blowing needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:369][  0]LogMaterial: Display: Missing cached shader map for material M_Aspen_Tree_Unlit_Blowing, compiling. 
+[2019.01.22-03.10.55:391][  0]MapCheck: Warning: M_Aspen_Tree_Unlit_Blowing Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Unlit_Blowing.M_Aspen_Tree_Unlit_Blowing was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:391][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_LeafPiles.M_Cave_LeafPiles needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:394][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_LeafPiles, compiling. 
+[2019.01.22-03.10.55:439][  0]MapCheck: Warning: M_Cave_LeafPiles Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_LeafPiles.M_Cave_LeafPiles was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:442][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_LeafPiles, compiling. 
+[2019.01.22-03.10.55:490][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Grass04.M_Soul_Grass04 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:493][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Grass04, compiling. 
+[2019.01.22-03.10.55:538][  0]MapCheck: Warning: M_Soul_Grass04 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Grass04.M_Soul_Grass04 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:539][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree03.M_Soul_Tree03 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.22-03.10.55:542][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Tree03, compiling. 
+[2019.01.22-03.10.55:587][  0]MapCheck: Warning: M_Soul_Tree03 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree03.M_Soul_Tree03 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.22-03.10.55:602][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.22-03.10.55:627][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.22-03.10.55:627][  0]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 0.149ms to complete.
+[2019.01.22-03.10.55:634][  0]LogFileHelpers: Loading map 'Terrain' took 3.769
+[2019.01.22-03.10.55:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.10.55:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.10.55:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.10.55:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.10.55:809][  0]LogCollectionManager: Loaded 0 collections in 0.002803 seconds
+[2019.01.22-03.10.55:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Collections/' took 0.01s
+[2019.01.22-03.10.55:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/Developers/Ryan/Collections/' took 0.00s
+[2019.01.22-03.10.55:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/Collections/' took 0.01s
+[2019.01.22-03.10.55:838][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.22-03.10.55:848][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2651 classes and 620 folders.
+[2019.01.22-03.10.55:857][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.22-03.10.55:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.55:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:083][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.22-03.10.56:225][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.22-03.10.56:231][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.22-03.10.56:253][  0]LogSlate: Took 0.005128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.22-03.10.56:258][  0]LogSlate: Took 0.004073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.22-03.10.56:268][  0]LogSlate: Took 0.004759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.22-03.10.56:417][  0]LogRenderer: Reallocating scene render targets to support 1176x560 Format 10 NumSamples 1 (Frame:1).
+[2019.01.22-03.10.56:739][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.22-03.10.56:739][  0]LogLoad: (Engine Initialization) Total time: 19.64 seconds
+[2019.01.22-03.10.56:739][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.22-03.10.56:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.22-03.10.56:845][  0]LogSlate: Took 0.005374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.22-03.10.56:939][  2]LogAssetRegistry: Asset discovery search completed in 12.1337 seconds
+[2019.01.22-03.10.56:943][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.22-03.10.56:943][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.01.22-03.10.58:358][125]LogShaderCompilers: Display: Shaders left to compile 1182
+[2019.01.22-03.10.59:102][177]LogShaderCompilers: Display: Shaders left to compile 1172
+[2019.01.22-03.10.59:421][200]LogShaderCompilers: Display: Shaders left to compile 1162
+[2019.01.22-03.11.01:666][346]LogShaderCompilers: Display: Shaders left to compile 1152
+[2019.01.22-03.11.03:471][455]LogShaderCompilers: Display: Shaders left to compile 1142
+[2019.01.22-03.11.03:683][467]LogShaderCompilers: Display: Shaders left to compile 1132
+[2019.01.22-03.11.04:080][489]LogShaderCompilers: Display: Shaders left to compile 1122
+[2019.01.22-03.11.06:160][635]LogShaderCompilers: Display: Shaders left to compile 1112
+[2019.01.22-03.11.06:248][645]LogShaderCompilers: Display: Shaders left to compile 1102
+[2019.01.22-03.11.08:392][812]LogShaderCompilers: Display: Shaders left to compile 1092
+[2019.01.22-03.11.09:969][907]LogShaderCompilers: Display: Shaders left to compile 1082
+[2019.01.22-03.11.10:619][945]LogShaderCompilers: Display: Shaders left to compile 1072
+[2019.01.22-03.11.10:891][961]LogShaderCompilers: Display: Shaders left to compile 1062
+[2019.01.22-03.11.12:687][ 69]LogShaderCompilers: Display: Shaders left to compile 1052
+[2019.01.22-03.11.12:846][ 80]LogShaderCompilers: Display: Shaders left to compile 1042
+[2019.01.22-03.11.15:151][235]LogShaderCompilers: Display: Shaders left to compile 1032
+[2019.01.22-03.11.15:831][285]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.22-03.11.15:832][285]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.22-03.11.15:832][285]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.01.22-03.11.15:848][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-03.11.16:160][317]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.22-03.11.16:513][344]LogShaderCompilers: Display: Shaders left to compile 1022
+[2019.01.22-03.11.17:474][451]LogShaderCompilers: Display: Shaders left to compile 1012
+[2019.01.22-03.11.18:223][535]LogShaderCompilers: Display: Shaders left to compile 1002
+[2019.01.22-03.11.19:789][712]LogShaderCompilers: Display: Shaders left to compile 992
+[2019.01.22-03.11.20:277][767]LogShaderCompilers: Display: Shaders left to compile 982
+[2019.01.22-03.11.20:954][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.01.22-03.11.24:271][842]LogShaderCompilers: Display: Shaders left to compile 972
+[2019.01.22-03.11.24:271][842]LogShaderCompilers: Display: Shaders left to compile 962
+[2019.01.22-03.11.24:271][842]LogShaderCompilers: Display: Shaders left to compile 952
+[2019.01.22-03.11.24:271][842]LogShaderCompilers: Display: Shaders left to compile 942
+[2019.01.22-03.11.24:679][842]LogShaderCompilers: Display: Shaders left to compile 932
+[2019.01.22-03.11.24:907][842]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.01.22-03.11.25:660][842]LogShaderCompilers: Display: Shaders left to compile 922
+[2019.01.22-03.11.25:827][842]LogSlate: Took 0.004256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.22-03.11.26:004][843]LogSlate: Took 0.004095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.22-03.11.28:680][134]LogShaderCompilers: Display: Shaders left to compile 912
+[2019.01.22-03.11.28:883][158]LogShaderCompilers: Display: Shaders left to compile 902
+[2019.01.22-03.11.29:911][274]LogShaderCompilers: Display: Shaders left to compile 892
+[2019.01.22-03.11.32:393][555]LogShaderCompilers: Display: Shaders left to compile 882
+[2019.01.22-03.11.32:541][571]LogShaderCompilers: Display: Shaders left to compile 872
+[2019.01.22-03.11.34:036][741]LogShaderCompilers: Display: Shaders left to compile 862
+[2019.01.22-03.11.36:316][  1]LogShaderCompilers: Display: Shaders left to compile 852
+[2019.01.22-03.11.37:715][155]LogShaderCompilers: Display: Shaders left to compile 842
+[2019.01.22-03.11.38:255][214]LogShaderCompilers: Display: Shaders left to compile 832
+[2019.01.22-03.11.38:768][271]LogShaderCompilers: Display: Shaders left to compile 822
+[2019.01.22-03.11.39:845][394]LogShaderCompilers: Display: Shaders left to compile 812
+[2019.01.22-03.11.41:263][553]LogShaderCompilers: Display: Shaders left to compile 802
+[2019.01.22-03.11.42:567][698]LogShaderCompilers: Display: Shaders left to compile 792
+[2019.01.22-03.11.43:580][809]LogShaderCompilers: Display: Shaders left to compile 782
+[2019.01.22-03.11.43:864][839]LogShaderCompilers: Display: Shaders left to compile 772
+[2019.01.22-03.11.44:824][933]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacterC9C6A7F946F3310AF59ED3898864B305.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.11.45:422][  0]LogShaderCompilers: Display: Shaders left to compile 762
+[2019.01.22-03.11.45:972][ 63]LogShaderCompilers: Display: Shaders left to compile 752
+[2019.01.22-03.11.47:923][284]LogShaderCompilers: Display: Shaders left to compile 742
+[2019.01.22-03.11.49:743][464]LogShaderCompilers: Display: Shaders left to compile 732
+[2019.01.22-03.11.50:340][522]LogShaderCompilers: Display: Shaders left to compile 722
+[2019.01.22-03.11.50:612][549]LogShaderCompilers: Display: Shaders left to compile 712
+[2019.01.22-03.11.52:192][724]LogShaderCompilers: Display: Shaders left to compile 702
+[2019.01.22-03.11.52:555][763]LogShaderCompilers: Display: Shaders left to compile 692
+[2019.01.22-03.11.54:706][  4]LogShaderCompilers: Display: Shaders left to compile 682
+[2019.01.22-03.11.56:313][185]LogShaderCompilers: Display: Shaders left to compile 672
+[2019.01.22-03.11.56:451][201]LogShaderCompilers: Display: Shaders left to compile 662
+[2019.01.22-03.11.58:036][376]LogShaderCompilers: Display: Shaders left to compile 652
+[2019.01.22-03.11.59:546][544]LogShaderCompilers: Display: Shaders left to compile 642
+[2019.01.22-03.12.00:087][604]LogShaderCompilers: Display: Shaders left to compile 632
+[2019.01.22-03.12.03:051][933]LogShaderCompilers: Display: Shaders left to compile 622
+[2019.01.22-03.12.03:732][  7]LogShaderCompilers: Display: Shaders left to compile 612
+[2019.01.22-03.12.04:484][ 74]LogShaderCompilers: Display: Shaders left to compile 602
+[2019.01.22-03.12.06:767][225]LogShaderCompilers: Display: Shaders left to compile 592
+[2019.01.22-03.12.07:948][310]LogShaderCompilers: Display: Shaders left to compile 582
+[2019.01.22-03.12.08:388][343]LogShaderCompilers: Display: Shaders left to compile 572
+[2019.01.22-03.12.10:999][578]LogShaderCompilers: Display: Shaders left to compile 562
+[2019.01.22-03.12.12:518][750]LogShaderCompilers: Display: Shaders left to compile 552
+[2019.01.22-03.12.13:180][800]LogShaderCompilers: Display: Shaders left to compile 542
+[2019.01.22-03.12.14:519][889]LogShaderCompilers: Display: Shaders left to compile 532
+[2019.01.22-03.12.16:591][ 29]LogShaderCompilers: Display: Shaders left to compile 522
+[2019.01.22-03.12.16:625][ 32]LogShaderCompilers: Display: Shaders left to compile 512
+[2019.01.22-03.12.18:011][125]LogShaderCompilers: Display: Shaders left to compile 502
+[2019.01.22-03.12.20:179][272]LogShaderCompilers: Display: Shaders left to compile 492
+[2019.01.22-03.12.20:607][301]LogShaderCompilers: Display: Shaders left to compile 482
+[2019.01.22-03.12.20:799][314]LogShaderCompilers: Display: Shaders left to compile 472
+[2019.01.22-03.12.23:796][523]LogShaderCompilers: Display: Shaders left to compile 462
+[2019.01.22-03.12.24:673][582]LogShaderCompilers: Display: Shaders left to compile 452
+[2019.01.22-03.12.25:083][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.12.25:096][607]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone0D3ECF5743C6DB42C9E63A86BCEEE518.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.12.25:591][642]LogShaderCompilers: Display: Shaders left to compile 442
+[2019.01.22-03.12.25:664][645]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/UI/ActionZone.ActionZone
+[2019.01.22-03.12.27:096][645]LogShaderCompilers: Display: Shaders left to compile 432
+[2019.01.22-03.12.27:096][645]LogShaderCompilers: Display: Shaders left to compile 422
+[2019.01.22-03.12.27:096][645]LogShaderCompilers: Display: Shaders left to compile 412
+[2019.01.22-03.12.30:240][845]LogShaderCompilers: Display: Shaders left to compile 402
+[2019.01.22-03.12.30:592][877]LogSlate: Window 'ActionZone' being destroyed
+[2019.01.22-03.12.31:685][922]LogShaderCompilers: Display: Shaders left to compile 392
+[2019.01.22-03.12.31:840][933]LogShaderCompilers: Display: Shaders left to compile 382
+[2019.01.22-03.12.33:479][ 38]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.01.22-03.12.34:905][133]LogShaderCompilers: Display: Shaders left to compile 362
+[2019.01.22-03.12.35:418][165]LogShaderCompilers: Display: Shaders left to compile 352
+[2019.01.22-03.12.39:799][443]LogShaderCompilers: Display: Shaders left to compile 342
+[2019.01.22-03.12.40:097][462]LogShaderCompilers: Display: Shaders left to compile 332
+[2019.01.22-03.12.41:570][558]LogShaderCompilers: Display: Shaders left to compile 322
+[2019.01.22-03.12.43:469][677]LogShaderCompilers: Display: Shaders left to compile 312
+[2019.01.22-03.12.43:976][711]LogShaderCompilers: Display: Shaders left to compile 302
+[2019.01.22-03.12.44:977][776]LogShaderCompilers: Display: Shaders left to compile 292
+[2019.01.22-03.12.49:676][ 69]LogShaderCompilers: Display: Shaders left to compile 282
+[2019.01.22-03.12.50:346][111]LogShaderCompilers: Display: Shaders left to compile 272
+[2019.01.22-03.12.50:394][114]LogShaderCompilers: Display: Shaders left to compile 262
+[2019.01.22-03.12.54:016][340]LogShaderCompilers: Display: Shaders left to compile 252
+[2019.01.22-03.12.55:086][402]LogShaderCompilers: Display: Shaders left to compile 242
+[2019.01.22-03.12.55:131][405]LogShaderCompilers: Display: Shaders left to compile 232
+[2019.01.22-03.12.58:437][607]LogShaderCompilers: Display: Shaders left to compile 222
+[2019.01.22-03.13.00:260][670]LogShaderCompilers: Display: Shaders left to compile 212
+[2019.01.22-03.13.00:260][670]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.01.22-03.13.01:871][770]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.01.22-03.13.03:681][881]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.01.22-03.13.05:282][977]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.01.22-03.13.08:177][152]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.01.22-03.13.09:313][221]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.01.22-03.13.09:905][257]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.01.22-03.13.12:539][415]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.01.22-03.13.13:021][444]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.01.22-03.13.15:008][529]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.22-03.13.17:681][691]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.22-03.13.18:175][720]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.01.22-03.13.18:499][740]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.22-03.13.20:661][872]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.22-03.13.21:016][895]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.22-03.13.21:370][916]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.22-03.13.25:265][154]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.22-03.13.26:097][205]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.22-03.13.27:430][290]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.22-03.13.29:107][391]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.22-03.13.30:473][472]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.22-03.13.32:068][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.22-03.13.38:313][986]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.22-03.14.08:617][982]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.22-03.14.12:244][212]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacter8C2DB57A499CF796E101F982B1603723.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.14.12:249][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.14.12:278][212]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone7D28BD8A4F9BF4A9F50D31BE0323CB8A.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.14.13:104][266]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.14.30:127][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.14.30:153][564]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone589BE8A34F23A68BF3F40691495CD221.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.14.30:972][621]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.14.33:857][853]LogSlate: Window 'ActionZone' being destroyed
+[2019.01.22-03.14.40:172][594]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.22-03.14.40:926][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.14.41:461][648]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Terrain200ED954441D734FADAFD88167A278C0.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.14.41:496][648]LogFileHelpers: Saving map 'Terrain' took 0.571
+[2019.01.22-03.14.41:549][648]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacter4AC031FF4E6F967622591CAECEF82250.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.15.49:502][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.15.50:030][583]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainEADD5D36462BC02B66F72893C48DCFDA.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.15.50:062][583]LogFileHelpers: Saving map 'Terrain' took 0.561
+[2019.01.22-03.15.50:117][583]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacterAB1EE6C64B33562BA72AD08A6734E245.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.15.50:591][637]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.22-03.15.55:791][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.15.56:318][123]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Terrain56EAED8246881FDBDC42A8BD1AD1C011.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.15.56:350][123]LogFileHelpers: Saving map 'Terrain' took 0.559
+[2019.01.22-03.17.08:797][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.17.09:333][281]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainE3E699184D2F655C94EA60A1767BB6F2.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.17.09:364][281]LogFileHelpers: Saving map 'Terrain' took 0.568
+[2019.01.22-03.17.09:424][281]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacterD1726E434E9AE840089BF595BDA9B1F8.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.17.10:023][351]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.22-03.17.54:082][461]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.17.54:096][461]LogBlueprint: Warning: [Compiler ActionZone] 'Third Person Character' does not inherit from 'Player Controller' ( Cast To ThirdPersonCharacter  would always fail).
+[2019.01.22-03.17.54:146][461]LogBlueprint: Warning: [Compiler ActionZone] [0437.04] Compile of ActionZone successful, but with 1 Warning(s) [in 63 ms] (/Game/MyContent/UI/ActionZone.ActionZone)
+[2019.01.22-03.19.13:869][161]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/BP/Door.Door
+[2019.01.22-03.19.40:223][ 74]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.19.40:232][ 74]LogBlueprint: Warning: [Compiler ActionZone] 'Third Person Character' does not inherit from 'Player Controller' ( Cast To ThirdPersonCharacter  would always fail).
+[2019.01.22-03.19.40:284][ 74]LogBlueprint: Warning: [Compiler ActionZone] [0543.18] Compile of ActionZone successful, but with 1 Warning(s) [in 60 ms] (/Game/MyContent/UI/ActionZone.ActionZone)
+[2019.01.22-03.20.52:988][581]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.22-03.20.54:141][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.20.54:690][680]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainD0B344C340B3AF352F156692B7A391A2.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.20.54:724][680]LogFileHelpers: Saving map 'Terrain' took 0.584
+[2019.01.22-03.20.54:780][680]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacter68D5EF3C4D9443663C724191E6B2F110.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.20.54:799][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/BP/Door" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset" SILENT=true
+[2019.01.22-03.20.54:849][680]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/DoorA527801348E0FD20124847A9A9E3CE22.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset'
+[2019.01.22-03.20.54:855][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.20.54:890][680]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZoneB0175AB94EB3821FC04A849C1BC32D9B.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.21.18:150][445]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.21.18:183][445]LogBlueprint: Error: [Compiler ActionZone] Binding: Property ' Visibility Delegate ' on Widget ' TextBlock_100 ': Binding: 'None' : 'None' was not found on 'Action Zone'.
+[2019.01.22-03.21.18:372][445]LogBlueprint: Warning: [Compiler ActionZone] [0641.27] Compile of ActionZone failed. 1 Fatal Issue(s) 0 Warning(s) [in 221 ms] (/Game/MyContent/UI/ActionZone.ActionZone)
+[2019.01.22-03.21.21:087][768]LogBlueprint: Warning: Unknown type of hyperlinked object (VisibilityDelegate), cannot focus it
+[2019.01.22-03.21.21:992][876]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_100), cannot focus it
+[2019.01.22-03.21.34:518][356]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.21.35:402][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.21.35:944][442]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainAF79C55F4789E0E8CBC1A3A6422297DE.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.21.35:976][442]LogFileHelpers: Saving map 'Terrain' took 0.574
+[2019.01.22-03.21.35:977][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.21.36:002][442]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone760029C242BE9115B98540BBF262B9CC.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.21.39:703][832]BlueprintLog: New page: Compile Door
+[2019.01.22-03.21.59:602][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.22.00:139][ 82]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Terrain2026C9844660140D439F1AB2CBBE3450.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.22.00:171][ 82]LogFileHelpers: Saving map 'Terrain' took 0.569
+[2019.01.22-03.22.00:189][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/BP/Door" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset" SILENT=true
+[2019.01.22-03.22.00:240][ 82]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/DoorC9D2518F42D4787626B96CA663AA7188.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset'
+[2019.01.22-03.22.00:673][129]BlueprintLog: New page: Compile Door
+[2019.01.22-03.22.00:685][129]LogBlueprint: Error: [Compiler Door] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.01.22-03.22.00:685][129]LogBlueprint: Error: [Compiler Door] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.01.22-03.22.00:863][129]LogBlueprint: Warning: [Compiler Door] [0683.76] Compile of Door failed. 2 Fatal Issue(s) 0 Warning(s) [in 190 ms] (/Game/MyContent/BP/Door.Door)
+[2019.01.22-03.22.07:366][884]BlueprintLog: New page: Compile Door
+[2019.01.22-03.22.08:568][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.22.09:103][988]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Terrain1431945D41C69F9850409990FCBB7691.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.22.09:134][988]LogFileHelpers: Saving map 'Terrain' took 0.566
+[2019.01.22-03.22.09:150][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/BP/Door" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset" SILENT=true
+[2019.01.22-03.22.09:197][988]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/DoorE49650364517A27C492884B43632AA4C.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/BP/Door.uasset'
+[2019.01.22-03.22.12:134][297]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.22-03.22.12:180][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.22.12:181][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.22-03.22.12:181][297]PIE: New page: PIE session: Terrain (Jan 21, 2019, 5:22:12 PM)
+[2019.01.22-03.22.12:193][297]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Terrain
+[2019.01.22-03.22.12:227][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034412s)
+[2019.01.22-03.22.12:228][297]LogAIModule: Creating AISystem for world Terrain
+[2019.01.22-03.22.12:228][297]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.01.22-03.22.12:228][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Terrain.Terrain to /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain (0.035305s)
+[2019.01.22-03.22.12:281][297]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.22-03.22.12:298][297]LogInit: FAudioDevice initialized.
+[2019.01.22-03.22.12:339][297]LogLoad: Game class is 'GameModeBase'
+[2019.01.22-03.22.12:346][297]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2019.01.21-22.22.12
+[2019.01.22-03.22.12:346][297]LogWorld: Bringing up level for play took: 0.006373
+[2019.01.22-03.22.12:370][297]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.22-03.22.12:371][297]PIE: Warning: The widget 'Clock_HUD_C' was already added to the screen.
+[2019.01.22-03.22.12:371][297]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_Terrain -0.381
+[2019.01.22-03.22.12:371][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.22.23:325][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.22.23:325][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.22.23:375][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.22-03.22.23:375][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.22.23:411][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.22.23:425][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-03.22.23:462][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.22-03.22.29:956][425]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.22.29:978][425]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.22.33:955][650]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.22.33:976][650]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.22.43:291][696]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.22-03.22.44:085][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.22.44:625][749]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainFD9B955443DE61B35FCA96B6C110E2EB.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.22.44:657][749]LogFileHelpers: Saving map 'Terrain' took 0.572
+[2019.01.22-03.22.44:717][749]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ThirdPersonCharacter67EC548A4DF607889567C299E531AA72.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/3rdPersonContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.22-03.23.27:801][234]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.23.30:291][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.23.30:830][502]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Terrain86A86267412B70CB65832582562B481B.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.23.30:861][502]LogFileHelpers: Saving map 'Terrain' took 0.571
+[2019.01.22-03.23.30:863][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.23.30:887][502]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone12B453A946762979EA18F9ABC6168FC9.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.23.31:946][583]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.22-03.23.31:976][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.23.31:976][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.22-03.23.31:976][583]PIE: New page: PIE session: Terrain (Jan 21, 2019, 5:23:31 PM)
+[2019.01.22-03.23.31:976][583]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Terrain
+[2019.01.22-03.23.32:009][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033321s)
+[2019.01.22-03.23.32:010][583]LogAIModule: Creating AISystem for world Terrain
+[2019.01.22-03.23.32:010][583]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.01.22-03.23.32:010][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Terrain.Terrain to /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain (0.033955s)
+[2019.01.22-03.23.32:057][583]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.22-03.23.32:074][583]LogInit: FAudioDevice initialized.
+[2019.01.22-03.23.32:105][583]LogLoad: Game class is 'GameModeBase'
+[2019.01.22-03.23.32:111][583]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2019.01.21-22.23.32
+[2019.01.22-03.23.32:112][583]LogWorld: Bringing up level for play took: 0.005915
+[2019.01.22-03.23.32:125][583]PIE: Warning: The widget 'Clock_HUD_C' was already added to the screen.
+[2019.01.22-03.23.32:126][583]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_Terrain -0.626
+[2019.01.22-03.23.32:126][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.23.54:148][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.23.54:149][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.23.54:201][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.22-03.23.54:202][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.23.54:237][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.23.54:250][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-03.23.54:284][104]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.22-03.23.55:595][181]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.23.55:616][181]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.24.01:462][806]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.24.03:050][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Terrain" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-03.24.03:585][963]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/TerrainB552E85C42DDB81A3F990B9A80829AE2.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/Terrain.umap'
+[2019.01.22-03.24.03:616][963]LogFileHelpers: Saving map 'Terrain' took 0.567
+[2019.01.22-03.24.03:618][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.24.03:643][963]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone932883784AA160BB7958B6BEB3A9B774.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.24.05:409][125]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.22-03.24.05:428][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.24.05:428][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.22-03.24.05:428][125]PIE: New page: PIE session: Terrain (Jan 21, 2019, 5:24:05 PM)
+[2019.01.22-03.24.05:429][125]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Terrain
+[2019.01.22-03.24.05:462][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033344s)
+[2019.01.22-03.24.05:462][125]LogAIModule: Creating AISystem for world Terrain
+[2019.01.22-03.24.05:463][125]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2019.01.22-03.24.05:463][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Terrain.Terrain to /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain (0.034036s)
+[2019.01.22-03.24.05:513][125]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.22-03.24.05:529][125]LogInit: FAudioDevice initialized.
+[2019.01.22-03.24.05:562][125]LogLoad: Game class is 'GameModeBase'
+[2019.01.22-03.24.05:568][125]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2019.01.21-22.24.05
+[2019.01.22-03.24.05:569][125]LogWorld: Bringing up level for play took: 0.006091
+[2019.01.22-03.24.05:582][125]PIE: Warning: The widget 'Clock_HUD_C' was already added to the screen.
+[2019.01.22-03.24.05:583][125]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_Terrain 0.831
+[2019.01.22-03.24.05:583][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.24.18:181][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.24.18:182][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.24.18:243][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.22-03.24.18:244][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/MyContent/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/MyContent/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2019.01.22-03.24.18:278][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.22-03.24.18:291][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-03.24.18:326][  6]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.22-03.24.19:582][ 76]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.24.19:603][ 76]LogSlate: Window 'Message Log' being destroyed
+[2019.01.22-03.24.24:938][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UI/ActionZone" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset" SILENT=true
+[2019.01.22-03.24.24:964][659]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/ActionZone7458029C4F94907D8810809D9AD0066E.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/UI/ActionZone.uasset'
+[2019.01.22-03.24.26:741][789]BlueprintLog: New page: Compile ActionZone
+[2019.01.22-03.24.29:981][916]LogUObjectArray: Warning: Other object in slot
+[2019.01.22-03.24.29:981][916]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.22-03.24.30:760][916]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.779 s
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: 
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: Stack: 
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffcf3c481d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffcf3c5809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffcf0e9bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffcefa3769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffcef9f0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffd001d7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffd00424393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.22-03.24.30:760][916]LogOutputDevice: Error: [Callstack] 0x00007ffd00232d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd00208a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd001fb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd2f80dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd2f800de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd2f8101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd2f7fca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd5f826d41 USER32.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd5f826713 USER32.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd2f811746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ff76a555546 UE4Editor.exe!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ff76a56596c UE4Editor.exe!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ff76a5659ea UE4Editor.exe!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ff76a5748da UE4Editor.exe!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ff76a57659a UE4Editor.exe!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd61363034 KERNEL32.DLL!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: [Callstack] 0x00007ffd61773691 ntdll.dll!UnknownFunction []
+[2019.01.22-03.24.30:761][916]LogOutputDevice: Error: 
+[2019.01.22-03.24.30:767][916]LogStats:                SubmitErrorReport -  0.000 s
