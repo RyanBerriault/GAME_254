@@ -1,8 +1,6 @@
 # GAME_254
 A Working Project for Humber College Course GAME 254
 
-
-
 ## Compainon App
 
 ### App Purpose
@@ -10,6 +8,8 @@ A Working Project for Humber College Course GAME 254
 The purpose of this app to a given use is to be used as a companion app to a larger PC game known as Capstone. It is to support this other application and provide the user with extra detail on specific game data taken from one of their chosen game saves. 
 
 The user has a few options as to what information they are wishing to look for such as any information on current stocks inside of their game ( Price, Demand, Supply, Sales History, Predictive Pricing ) or the user can access a dynamic Wiki system that updates and changes with their game. All of this anywhere on the go, whether at home and used with the game or on the go to check how your game is progessing so far.   
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### The Planned Features of this App are: 
 
@@ -31,7 +31,7 @@ Another way the user can transverse around the app is to use the search mechanic
 
 The final way for the user to travers is to tap a link ( blue, underlined, highlighted text ). This will take the user to a linked Wiki Page on the given subject. 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Capstone Description
 Intergalactic Trading Co is a Roguelike that has elements of Economy, Sci Fi and Space games. The players goal will to be to run their own trading company and spread their influence across the galaxy while amassing massive profits.
@@ -44,7 +44,7 @@ Many common Roguelike concepts will be used in this game that can be found in a 
 This game will use a mix off Sid Meier's Pirates navigation system for the players Ship/Fleet for the player view while inside of a star system and a more classic 4X style like Stellaris of navagting star systems in a larger galaxy map. 
 In Sid Meier's Pirates & Elite Dangerous their are goods trading systems that rely on hubs ( Stations or Ports ) where goods are listed to buy at prices unique to each hub, This price is calculated on things like wealth of hub, Type of trading that hub does Ex: Agriculture, How much trade that hub does with hubs around it.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Layout
 Sync Page | Description
