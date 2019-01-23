@@ -49,14 +49,23 @@ In Sid Meier's Pirates & Elite Dangerous their are goods trading systems that re
 ### Layout
 Visual Aid | Description
 ------------ | -------------
-![Image of Sync Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Sync%20Page.PNG)| 
+![Image of Sync Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Sync%20Page.PNG)| This is the first page a given user will see and its purpose is to let the user choose and connect to their game files. 
 
 Directly underneath the Pages bar you can see two buttons the first green one is to Re-Sync game saves from an existing connection. Under this button is another that is Orange this button is used to Establish a connection to the users specific game as well as its saves. To the Right now you will see a chart. This is all the saves the system currently has access to and the user must pick which one they want the app to use. This can be seen in the left hand column with the row that has a filled dot, In the right collum is the name of the save file. 
 
-![Image of Stock Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Stock%20Page.PNG) | Description 
-![Image of Wiki Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Wiki%20Page.PNG) | Description 
+![Image of Stock Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Stock%20Page.PNG) | The Stock page displays all known information regarding any given stock. 
 
+s
+s
+s
 
+![Image of Wiki Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Wiki%20Page.PNG) | The Wiki Page dynamicly changes to fit any given information it needs to display based on what the user is looking up. Possible searches include People, Places or Game Concepts.
+
+s
+s
+s
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Layouts Designed With: 
 > "https://app.moqups.com "
