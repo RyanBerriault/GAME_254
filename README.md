@@ -57,17 +57,13 @@ Stock Page | Description
 ------------ | -------------
 ![Image of Stock Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Stock%20Page.PNG) | The Stock page displays all known information regarding any given stock. 
 
-s
-s
-s
+Top to bottom the Stock Page starts off with a search bar which the user may use to search for any existing stock ( as long it is in their save game ). Next the stock title and a description of the stock follows. In the middle from left to right begins with the stocks in game picture or icon. Then beside the green icon its current trading price, Beside the orange icon is the stocks demand and lastly next to the purple icon is the stock supply. On the buttom of the screen Respectlively left and right are arrows that will change the dates that the graph will show ( Allowing the user to look backward or forward in time, However forward in time past the present date is done by a predictive algorithm and is not a final price ). For the graph the vertical axis is the stocks given price and the horizontal axis is related to the given date. Green and red on the graph itself represents positive and negitive values. 
 
 Wiki Page | Description
 ------------ | -------------
 ![Image of Wiki Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Wiki%20Page.PNG) | The Wiki Page dynamicly changes to fit any given information it needs to display based on what the user is looking up. Possible searches include People, Places or Game Concepts.
 
-s
-s
-s
+To the user the Wiki Pages layout is ever changing as it updates to display what information is know about a given topic, Because of this the only static elements of this page are the main search bar at the top ( which the user can use to search for a known topic ) as well as the topic title and description resting below the search bar. The rest of the page will automatically be filled based on what data is trying to be displayed.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
