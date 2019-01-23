@@ -23,6 +23,7 @@ automatically generated at the first instance of each game ( Wiki Framework )
 
 (4) Predictive future stock pricing ( Market Trends )
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### User Path 
 Using the static page picker bar on the top right hand of every page the user will be able to transfer between three possible pages. The current Page is noticeable by which icon on the bar is blacked out. In order from top to bottom the first button is to the Sync Page then the Stock Page and finally the Wiki Page.
