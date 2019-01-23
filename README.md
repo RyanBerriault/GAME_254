@@ -67,5 +67,4 @@ Wiki Page | Description
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Layouts Designed With: 
-> "https://app.moqups.com "
+Layouts Designed With: https://app.moqups.com
