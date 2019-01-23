@@ -63,7 +63,7 @@ Wiki Page | Description
 ------------ | -------------
 ![Image of Wiki Page Layout](https://github.com/RyanBerriault/GAME_254/blob/master/Wiki%20Page.PNG) | The Wiki Page dynamicly changes to fit any given information it needs to display based on what the user is looking up. Possible searches include People, Places or Game Concepts.
 
-To the user the Wiki Pages layout is ever changing as it updates to display what information is know about a given topic, Because of this the only static elements of this page are the main search bar at the top ( which the user can use to search for a known topic ) as well as the topic title and description resting below the search bar. The rest of the page will automatically be filled based on what data is trying to be displayed.  
+"To the user the Wiki Pages layout is ever changing as it updates to display what information is know about a given topic, Because of this the only static elements of this page are the main search bar at the top ( which the user can use to search for a known topic ) as well as the topic title and description resting below the search bar. The rest of the page will automatically be filled based on what data is trying to be displayed." 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
