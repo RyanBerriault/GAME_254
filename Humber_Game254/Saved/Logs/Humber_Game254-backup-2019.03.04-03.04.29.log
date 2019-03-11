@@ -1,0 +1,1418 @@
+﻿Log file open, 03/03/19 21:44:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Humber_Game254
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202897
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.103s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Ryan/Documents/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.04-02.44.28:670][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.04-02.44.28:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:671][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:695][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.04-02.44.28:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.04-02.44.28:696][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.04-02.44.28:696][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.04-02.44.28:696][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.04-02.44.28:712][  0]LogHAL: Display: Platform has ~ 16 GB [17120346112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.04-02.44.28:712][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.04-02.44.28:712][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.04-02.44.28:712][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.04-02.44.28:713][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.04-02.44.28:714][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.04-02.44.28:714][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Config/Windows/Engine.ini]
+[2019.03.04-02.44.28:714][  0]LogInit: Computer: RYAN-PC
+[2019.03.04-02.44.28:714][  0]LogInit: User: Ryan
+[2019.03.04-02.44.28:714][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.04-02.44.28:714][  0]LogInit: High frequency timer resolution =3.124993 MHz
+[2019.03.04-02.44.28:714][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.04-02.44.28:714][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.04-02.44.28:714][  0]LogMemory: Process Physical Memory: 102.64 MB used, 102.64 MB peak
+[2019.03.04-02.44.28:714][  0]LogMemory: Process Virtual Memory: 92.86 MB used, 92.86 MB peak
+[2019.03.04-02.44.28:714][  0]LogMemory: Physical Memory: 3847.90 MB used,  12479.34 MB free, 16327.23 MB total
+[2019.03.04-02.44.28:714][  0]LogMemory: Virtual Memory: 4636.11 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.03.04-02.44.28:737][  0]LogInit: Using OS detected language (en-US).
+[2019.03.04-02.44.28:737][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.04-02.44.28:738][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.04-02.44.29:169][  0]LogStreaming: Display: Took  0.432s to InitEngineTextLocalization.
+[2019.03.04-02.44.29:169][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.04-02.44.29:212][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.04-02.44.29:212][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.04-02.44.29:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.04-02.44.29:429][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.04-02.44.29:453][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2019.03.04-02.44.29:453][  0]LogD3D11RHI:       3052/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.03.04-02.44.29:456][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.04-02.44.29:456][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.04-02.44.29:456][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.04-02.44.29:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.04-02.44.29:462][  0]LogD3D11RHI:     GPU DeviceId: 0x679a (for the marketing name, search the web for "GPU Device Id")
+[2019.03.04-02.44.29:462][  0]LogWindows: EnumDisplayDevices:
+[2019.03.04-02.44.29:462][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2019.03.04-02.44.29:463][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2019.03.04-02.44.29:463][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:464][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:464][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:465][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:465][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:466][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.03.04-02.44.29:466][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.03.04-02.44.29:466][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2019.03.04-02.44.29:466][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 18.12.2 (internal:25.20.15002.58, unified:25.20.15002.58)
+[2019.03.04-02.44.29:466][  0]LogD3D11RHI:      Driver Date: 12-6-2018
+[2019.03.04-02.44.29:466][  0]LogRHI: Texture pool is 2136 MB (70% of 3052 MB)
+[2019.03.04-02.44.29:517][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.04-02.44.29:528][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.03.04-02.44.29:830][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.04-02.44.29:844][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.04-02.44.29:859][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.04-02.44.29:873][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.04-02.44.29:887][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.04-02.44.29:902][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.04-02.44.29:916][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.04-02.44.29:931][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.04-02.44.29:938][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-02.44.30:017][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.04-02.44.30:079][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.04-02.44.30:079][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.04-02.44.30:103][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.04-02.44.30:103][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.04-02.44.30:116][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.04-02.44.30:128][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.04-02.44.30:141][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.04-02.44.30:155][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.04-02.44.30:202][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.04-02.44.30:202][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.04-02.44.30:202][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.04-02.44.30:278][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../GitHub/GAME_254/Humber_Game254/Intermediate/Shaders/WorkingDirectory/12224/).
+[2019.03.04-02.44.30:278][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/B217514F43A31EB3C764688ADF4D7BA9/'.
+[2019.03.04-02.44.30:281][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.04-02.44.30:281][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.04-02.44.30:281][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.04-02.44.30:828][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.04-02.44.30:906][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-02.44.30:906][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.04-02.44.30:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/GAME_254/Humber_Game254/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.04-02.44.30:906][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.04-02.44.30:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/GAME_254/Humber_Game254/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-02.44.30:907][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.04-02.44.30:920][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.04-02.44.30:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-02.44.30:920][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.04-02.44.30:933][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.04-02.44.30:933][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.04-02.44.30:933][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.04-02.44.30:956][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.04-02.44.30:958][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.04-02.44.30:958][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.04-02.44.31:048][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2019.03.04-02.44.31:377][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.04-02.44.31:540][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.04-02.44.31:546][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.04-02.44.31:546][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.04-02.44.31:546][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.04-02.44.31:546][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.04-02.44.31:558][  0]LogNetVersion: Humber_Game254 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4266805273)
+[2019.03.04-02.44.32:109][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.091478 seconds
+[2019.03.04-02.44.32:117][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.04-02.44.32:117][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.04-02.44.32:117][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.04-02.44.33:026][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.04-02.44.33:040][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.04-02.44.33:783][  0]SourceControl: Source control is disabled
+[2019.03.04-02.44.33:783][  0]SourceControl: Source control is disabled
+[2019.03.04-02.44.33:785][  0]SourceControl: Source control is disabled
+[2019.03.04-02.44.33:786][  0]SourceControl: Source control is disabled
+[2019.03.04-02.44.33:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.04-02.44.34:100][  0]LogOcInput: OculusInput pre-init called
+[2019.03.04-02.44.34:265][  0]LogEngine: Initializing Engine...
+[2019.03.04-02.44.34:265][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.04-02.44.34:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.04-02.44.34:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-02.44.34:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-02.44.34:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-02.44.34:513][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.04-02.44.34:530][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.04-02.44.34:568][  0]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.44.34:588][  0]LogInit: FAudioDevice initialized.
+[2019.03.04-02.44.34:589][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.04-02.44.34:677][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-02.44.34:707][  0]LogInit: Texture streaming: Enabled
+[2019.03.04-02.44.34:728][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.04-02.44.34:745][  0]LogInit: Transaction tracking system initialized
+[2019.03.04-02.44.34:777][  0]BlueprintLog: New page: Editor Load
+[2019.03.04-02.44.34:875][  0]LocalizationService: Localization service is disabled
+[2019.03.04-02.44.35:364][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.04-02.44.35:364][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.04-02.44.35:364][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.04-02.44.35:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.04-02.44.35:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-02.44.35:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-02.44.35:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-02.44.35:505][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/' took 0.03s
+[2019.03.04-02.44.35:505][  0]SourceControl: Source control is disabled
+[2019.03.04-02.44.35:505][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/MainLabs.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-02.44.35:506][  0]LightingResults: New page: Lighting Build
+[2019.03.04-02.44.35:510][  0]MapCheck: New page: Map Check
+[2019.03.04-02.44.35:510][  0]LightingResults: New page: Lighting Build
+[2019.03.04-02.44.37:166][  0]LogAIModule: Creating AISystem for world MainLabs
+[2019.03.04-02.44.37:195][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Bark.M_Aspen_Tree_Bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:198][  0]LogMaterial: Display: Missing cached shader map for material M_Aspen_Tree_Bark, compiling. 
+[2019.03.04-02.44.37:271][  0]MapCheck: Warning: M_Aspen_Tree_Bark Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Bark.M_Aspen_Tree_Bark was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:271][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Unlit_Blowing.M_Aspen_Tree_Unlit_Blowing needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:273][  0]LogMaterial: Display: Missing cached shader map for material M_Aspen_Tree_Unlit_Blowing, compiling. 
+[2019.03.04-02.44.37:301][  0]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.04-02.44.37:301][  0]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.04-02.44.37:301][  0]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.04-02.44.37:302][  0]MapCheck: Warning: M_Aspen_Tree_Unlit_Blowing Material /Game/SoulCave/Environment/Materials/Foliage/M_Aspen_Tree_Unlit_Blowing.M_Aspen_Tree_Unlit_Blowing was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:302][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_Grass.M_Cave_Grass needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:305][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Grass, compiling. 
+[2019.03.04-02.44.37:362][  0]MapCheck: Warning: M_Cave_Grass Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_Grass.M_Cave_Grass was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:365][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Grass, compiling. 
+[2019.03.04-02.44.37:412][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree02.M_Soul_Tree02 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:414][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Tree02, compiling. 
+[2019.03.04-02.44.37:460][  0]MapCheck: Warning: M_Soul_Tree02 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree02.M_Soul_Tree02 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:461][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Leaves.M_Soul_Leaves needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:464][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2019.03.04-02.44.37:510][  0]MapCheck: Warning: M_Soul_Leaves Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Leaves.M_Soul_Leaves was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:512][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2019.03.04-02.44.37:558][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_TwistedTree.M_Soul_TwistedTree needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:561][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_TwistedTree, compiling. 
+[2019.03.04-02.44.37:592][  0]MapCheck: Warning: M_Soul_TwistedTree Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_TwistedTree.M_Soul_TwistedTree was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:593][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_LeafPiles.M_Cave_LeafPiles needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:596][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_LeafPiles, compiling. 
+[2019.03.04-02.44.37:641][  0]MapCheck: Warning: M_Cave_LeafPiles Material /Game/SoulCave/Environment/Materials/Foliage/M_Cave_LeafPiles.M_Cave_LeafPiles was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:644][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_LeafPiles, compiling. 
+[2019.03.04-02.44.37:690][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Grass04.M_Soul_Grass04 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:692][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Grass04, compiling. 
+[2019.03.04-02.44.37:737][  0]MapCheck: Warning: M_Soul_Grass04 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Grass04.M_Soul_Grass04 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:738][  0]LogMaterial: Warning: Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree03.M_Soul_Tree03 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.04-02.44.37:740][  0]LogMaterial: Display: Missing cached shader map for material M_Soul_Tree03, compiling. 
+[2019.03.04-02.44.37:786][  0]MapCheck: Warning: M_Soul_Tree03 Material /Game/SoulCave/Environment/Materials/Nature/M_Soul_Tree03.M_Soul_Tree03 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.04-02.44.37:805][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-02.44.37:831][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-02.44.37:831][  0]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 0.151ms to complete.
+[2019.03.04-02.44.37:840][  0]LogFileHelpers: Loading map 'MainLabs' took 2.335
+[2019.03.04-02.44.37:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.44.37:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.44.37:975][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.44.37:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.44.37:991][  0]LogCollectionManager: Loaded 0 collections in 0.002790 seconds
+[2019.03.04-02.44.38:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Saved/Collections/' took 0.01s
+[2019.03.04-02.44.38:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/Developers/Ryan/Collections/' took 0.00s
+[2019.03.04-02.44.38:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/GitHub/GAME_254/Humber_Game254/Content/Collections/' took 0.00s
+[2019.03.04-02.44.38:008][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.04-02.44.38:018][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2651 classes and 620 folders.
+[2019.03.04-02.44.38:026][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-02.44.38:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-02.44.38:081][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-02.44.38:087][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.04-02.44.38:186][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.04-02.44.38:188][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.04-02.44.38:193][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.04-02.44.38:287][  0]LogRenderer: Reallocating scene render targets to support 1176x560 Format 10 NumSamples 1 (Frame:1).
+[2019.03.04-02.44.38:465][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-02.44.38:465][  0]LogLoad: (Engine Initialization) Total time: 11.64 seconds
+[2019.03.04-02.44.38:465][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.04-02.44.38:476][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.04-02.44.38:542][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.04-02.44.38:687][  2]LogAssetRegistry: Asset discovery search completed in 7.6615 seconds
+[2019.03.04-02.44.38:689][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.04-02.44.38:689][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.03.04-02.44.38:708][  2]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.04-02.44.39:537][ 51]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.04-02.44.40:837][126]LogShaderCompilers: Display: Shaders left to compile 1182
+[2019.03.04-02.44.41:295][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.44.41:408][164]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.03.04-02.44.41:471][165]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.03.04-02.44.41:551][166]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.03.04-02.44.42:272][210]LogShaderCompilers: Display: Shaders left to compile 1304
+[2019.03.04-02.44.42:337][214]LogShaderCompilers: Display: Shaders left to compile 1294
+[2019.03.04-02.44.43:877][301]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.44.43:877][301]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.44.43:878][301]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0017.05] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.44.43:963][301]LogShaderCompilers: Display: Shaders left to compile 1284
+[2019.03.04-02.44.43:996][301]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.44.44:003][301]LogAssetEditorManager: Opening Asset editor for World /Game/MyContent/Maps/EndlessRunner.EndlessRunner
+[2019.03.04-02.44.44:030][301]Cmd: MAP LOAD FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-02.44.44:030][301]LightingResults: New page: Lighting Build
+[2019.03.04-02.44.44:030][301]LoadErrors: New page: Loading map: EndlessRunner.umap
+[2019.03.04-02.44.44:033][301]MapCheck: New page: Map Check
+[2019.03.04-02.44.44:033][301]LightingResults: New page: Lighting Build
+[2019.03.04-02.44.44:152][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-02.44.47:765][301]LogShaderCompilers: Display: Shaders left to compile 1274
+[2019.03.04-02.44.47:765][301]LogShaderCompilers: Display: Shaders left to compile 1264
+[2019.03.04-02.44.47:765][301]LogShaderCompilers: Display: Shaders left to compile 1254
+[2019.03.04-02.44.47:765][301]LogShaderCompilers: Display: Shaders left to compile 1244
+[2019.03.04-02.44.47:765][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-02.44.47:767][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.684ms to complete.
+[2019.03.04-02.44.47:767][301]LogFileHelpers: Loading map 'EndlessRunner' took 3.738
+[2019.03.04-02.44.49:369][468]LogShaderCompilers: Display: Shaders left to compile 1234
+[2019.03.04-02.44.50:516][596]LogShaderCompilers: Display: Shaders left to compile 1224
+[2019.03.04-02.44.50:541][599]LogShaderCompilers: Display: Shaders left to compile 1214
+[2019.03.04-02.44.51:925][754]LogShaderCompilers: Display: Shaders left to compile 1204
+[2019.03.04-02.44.53:287][908]LogShaderCompilers: Display: Shaders left to compile 1194
+[2019.03.04-02.44.54:008][989]LogShaderCompilers: Display: Shaders left to compile 1184
+[2019.03.04-02.44.54:619][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.44.54:637][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.44.54:637][ 58]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.44.54:641][ 58]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.44.54:643][ 58]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.44.54:643][ 58]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.44.54:644][ 58]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0027.82] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 5 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.44.54:745][ 58]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2019.03.04-02.44.54:745][ 58]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.44.56:194][ 58]LogShaderCompilers: Display: Shaders left to compile 1174
+[2019.03.04-02.44.56:350][ 58]LogShaderCompilers: Display: Shaders left to compile 1164
+[2019.03.04-02.44.56:843][ 58]LogShaderCompilers: Display: Shaders left to compile 1154
+[2019.03.04-02.44.58:102][ 58]LogShaderCompilers: Display: Shaders left to compile 1144
+[2019.03.04-02.44.58:102][ 58]LogShaderCompilers: Display: Shaders left to compile 1134
+[2019.03.04-02.44.59:316][ 58]LogShaderCompilers: Display: Shaders left to compile 1124
+[2019.03.04-02.44.59:367][ 58]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.44.59:373][ 58]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:44:59 PM)
+[2019.03.04-02.44.59:385][ 58]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.44.59:388][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002498s)
+[2019.03.04-02.44.59:388][ 58]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.44.59:388][ 58]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.03.04-02.44.59:388][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003363s)
+[2019.03.04-02.44.59:448][ 58]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.44.59:467][ 58]LogInit: FAudioDevice initialized.
+[2019.03.04-02.44.59:509][ 58]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.44.59:510][ 58]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.44.59
+[2019.03.04-02.44.59:510][ 58]LogWorld: Bringing up level for play took: 0.000494
+[2019.03.04-02.44.59:529][ 58]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.03.04-02.44.59:540][ 58]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 5.387
+[2019.03.04-02.44.59:540][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.44.59:563][ 59]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-02.45.02:691][417]LogShaderCompilers: Display: Shaders left to compile 1114
+[2019.03.04-02.45.02:716][420]LogShaderCompilers: Display: Shaders left to compile 1104
+[2019.03.04-02.45.03:762][541]LogShaderCompilers: Display: Shaders left to compile 1094
+[2019.03.04-02.45.05:693][759]LogShaderCompilers: Display: Shaders left to compile 1084
+[2019.03.04-02.45.06:379][838]LogShaderCompilers: Display: Shaders left to compile 1074
+[2019.03.04-02.45.09:230][165]LogShaderCompilers: Display: Shaders left to compile 1064
+[2019.03.04-02.45.11:377][411]LogShaderCompilers: Display: Shaders left to compile 1054
+[2019.03.04-02.45.11:864][467]LogShaderCompilers: Display: Shaders left to compile 1044
+[2019.03.04-02.45.13:077][606]LogShaderCompilers: Display: Shaders left to compile 1034
+[2019.03.04-02.45.14:179][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.45.14:179][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.45.14:213][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.45.14:214][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.45.14:238][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.45.14:281][735]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.04-02.45.15:416][861]LogShaderCompilers: Display: Shaders left to compile 1024
+[2019.03.04-02.45.15:616][881]LogShaderCompilers: Display: Shaders left to compile 1014
+[2019.03.04-02.45.15:744][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.45.16:295][949]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.45.16:296][949]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.45.16:296][949]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0049.47] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.45.16:412][949]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerF78A575B4762CCB7F9C054A8EA7441EA.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-02.45.16:457][949]LogFileHelpers: Saving map 'EndlessRunner' took 0.211
+[2019.03.04-02.45.18:724][160]LogShaderCompilers: Display: Shaders left to compile 1004
+[2019.03.04-02.45.19:734][216]LogShaderCompilers: Display: Shaders left to compile 994
+[2019.03.04-02.45.20:153][237]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EndlessRunner/GM_EndlessRunner.GM_EndlessRunner
+[2019.03.04-02.45.21:781][237]LogShaderCompilers: Display: Shaders left to compile 984
+[2019.03.04-02.45.21:781][237]LogShaderCompilers: Display: Shaders left to compile 974
+[2019.03.04-02.45.21:781][237]LogShaderCompilers: Display: Shaders left to compile 964
+[2019.03.04-02.45.22:184][237]LogShaderCompilers: Display: Shaders left to compile 954
+[2019.03.04-02.45.22:307][237]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.03.04-02.45.23:167][237]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.04-02.45.23:255][238]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.04-02.45.25:492][490]LogShaderCompilers: Display: Shaders left to compile 944
+[2019.03.04-02.45.26:400][528]LogShaderCompilers: Display: Shaders left to compile 934
+[2019.03.04-02.45.27:174][543]LogShaderCompilers: Display: Shaders left to compile 924
+[2019.03.04-02.45.29:074][598]LogShaderCompilers: Display: Shaders left to compile 914
+[2019.03.04-02.45.29:706][620]LogShaderCompilers: Display: Shaders left to compile 904
+[2019.03.04-02.45.30:508][654]LogShaderCompilers: Display: Shaders left to compile 894
+[2019.03.04-02.45.33:298][788]LogShaderCompilers: Display: Shaders left to compile 884
+[2019.03.04-02.45.34:288][867]LogShaderCompilers: Display: Shaders left to compile 874
+[2019.03.04-02.45.35:620][ 18]LogShaderCompilers: Display: Shaders left to compile 864
+[2019.03.04-02.45.35:840][ 42]LogShaderCompilers: Display: Shaders left to compile 854
+[2019.03.04-02.45.37:203][199]LogShaderCompilers: Display: Shaders left to compile 844
+[2019.03.04-02.45.38:535][351]LogShaderCompilers: Display: Shaders left to compile 834
+[2019.03.04-02.45.41:765][720]LogShaderCompilers: Display: Shaders left to compile 824
+[2019.03.04-02.45.42:503][775]LogShaderCompilers: Display: Shaders left to compile 814
+[2019.03.04-02.45.43:563][885]LogShaderCompilers: Display: Shaders left to compile 804
+[2019.03.04-02.45.45:286][ 82]LogShaderCompilers: Display: Shaders left to compile 794
+[2019.03.04-02.45.45:463][102]LogShaderCompilers: Display: Shaders left to compile 784
+[2019.03.04-02.45.47:350][318]LogShaderCompilers: Display: Shaders left to compile 774
+[2019.03.04-02.45.49:747][592]LogShaderCompilers: Display: Shaders left to compile 764
+[2019.03.04-02.45.49:895][609]LogShaderCompilers: Display: Shaders left to compile 754
+[2019.03.04-02.45.50:130][636]LogShaderCompilers: Display: Shaders left to compile 744
+[2019.03.04-02.45.52:332][886]LogShaderCompilers: Display: Shaders left to compile 734
+[2019.03.04-02.45.52:350][888]LogShaderCompilers: Display: Shaders left to compile 724
+[2019.03.04-02.45.53:720][ 43]LogShaderCompilers: Display: Shaders left to compile 714
+[2019.03.04-02.45.56:290][196]LogShaderCompilers: Display: Shaders left to compile 704
+[2019.03.04-02.45.56:329][198]LogShaderCompilers: Display: Shaders left to compile 694
+[2019.03.04-02.45.56:419][202]LogShaderCompilers: Display: Shaders left to compile 684
+[2019.03.04-02.45.58:311][278]LogShaderCompilers: Display: Shaders left to compile 674
+[2019.03.04-02.45.58:558][286]LogShaderCompilers: Display: Shaders left to compile 664
+[2019.03.04-02.45.59:410][319]LogShaderCompilers: Display: Shaders left to compile 654
+[2019.03.04-02.46.01:428][382]LogShaderCompilers: Display: Shaders left to compile 644
+[2019.03.04-02.46.01:441][383]LogShaderCompilers: Display: Shaders left to compile 634
+[2019.03.04-02.46.01:709][391]LogShaderCompilers: Display: Shaders left to compile 624
+[2019.03.04-02.46.04:003][470]LogShaderCompilers: Display: Shaders left to compile 614
+[2019.03.04-02.46.04:133][476]LogShaderCompilers: Display: Shaders left to compile 604
+[2019.03.04-02.46.04:520][495]LogShaderCompilers: Display: Shaders left to compile 594
+[2019.03.04-02.46.06:063][538]LogShaderCompilers: Display: Shaders left to compile 584
+[2019.03.04-02.46.06:755][567]LogShaderCompilers: Display: Shaders left to compile 574
+[2019.03.04-02.46.07:321][589]LogShaderCompilers: Display: Shaders left to compile 564
+[2019.03.04-02.46.07:787][603]LogShaderCompilers: Display: Shaders left to compile 554
+[2019.03.04-02.46.08:267][620]LogShaderCompilers: Display: Shaders left to compile 544
+[2019.03.04-02.46.10:041][686]LogShaderCompilers: Display: Shaders left to compile 534
+[2019.03.04-02.46.10:954][725]LogShaderCompilers: Display: Shaders left to compile 524
+[2019.03.04-02.46.11:055][731]LogShaderCompilers: Display: Shaders left to compile 514
+[2019.03.04-02.46.11:999][768]LogShaderCompilers: Display: Shaders left to compile 504
+[2019.03.04-02.46.12:823][793]LogShaderCompilers: Display: Shaders left to compile 494
+[2019.03.04-02.46.13:235][816]LogShaderCompilers: Display: Shaders left to compile 484
+[2019.03.04-02.46.16:492][156]LogShaderCompilers: Display: Shaders left to compile 474
+[2019.03.04-02.46.16:492][156]LogShaderCompilers: Display: Shaders left to compile 464
+[2019.03.04-02.46.17:769][297]LogShaderCompilers: Display: Shaders left to compile 454
+[2019.03.04-02.46.19:020][400]LogShaderCompilers: Display: Shaders left to compile 444
+[2019.03.04-02.46.19:251][413]LogShaderCompilers: Display: Shaders left to compile 434
+[2019.03.04-02.46.20:462][479]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.03.04-02.46.21:266][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EndlessRunner/BP_FloorTile_RampUp.BP_FloorTile_RampUp
+[2019.03.04-02.46.24:706][521]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.03.04-02.46.24:706][521]LogShaderCompilers: Display: Shaders left to compile 404
+[2019.03.04-02.46.24:706][521]LogShaderCompilers: Display: Shaders left to compile 394
+[2019.03.04-02.46.24:706][521]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.03.04-02.46.24:706][521]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.03.04-02.46.25:027][521]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.03.04-02.46.26:896][691]LogRenderer: Reallocating scene render targets to support 1176x668 Format 10 NumSamples 1 (Frame:1).
+[2019.03.04-02.46.28:531][823]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.03.04-02.46.31:673][ 73]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.03.04-02.46.31:896][ 92]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.03.04-02.46.33:109][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.46.33:128][194]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.03.04-02.46.33:203][201]LogSlate: Window 'BP_FloorTile_RampUp' being destroyed
+[2019.03.04-02.46.33:218][201]LogSlate: Window 'BP_FloorTile_RampUp' being destroyed
+[2019.03.04-02.46.34:924][302]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.03.04-02.46.35:347][323]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EndlessRunner/BP_FloorTile_LeftCorner.BP_FloorTile_LeftCorner
+[2019.03.04-02.46.36:062][342]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.03.04-02.46.38:677][536]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.03.04-02.46.40:043][661]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.03.04-02.46.40:384][692]LogSlate: Window 'BP_FloorTile_LeftCorner' being destroyed
+[2019.03.04-02.46.44:607][692]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.03.04-02.46.44:607][692]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.03.04-02.46.44:607][692]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.03.04-02.46.44:607][692]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.03.04-02.46.44:607][692]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.03.04-02.46.45:050][736]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.03.04-02.46.45:590][791]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.03.04-02.46.47:126][966]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.03.04-02.46.47:135][967]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.03.04-02.46.49:941][278]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.03.04-02.46.50:282][317]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.03.04-02.46.51:454][451]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.03.04-02.46.52:361][554]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.03.04-02.46.53:030][630]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.03.04-02.46.54:520][797]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.03.04-02.46.56:730][ 43]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.03.04-02.46.57:352][112]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.03.04-02.46.58:029][190]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.03.04-02.46.58:877][283]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.03.04-02.46.59:207][319]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.04-02.47.01:079][532]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.04-02.47.01:516][582]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.04-02.47.02:322][673]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.04-02.47.03:014][751]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.04-02.47.04:591][929]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.04-02.47.04:953][970]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.04-02.47.05:853][ 72]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.04-02.47.06:461][140]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.04-02.47.30:456][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/GM_EndlessRunner" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/GM_EndlessRunner.uasset" SILENT=true
+[2019.03.04-02.47.30:506][972]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/GM_EndlessRunner7D227C30494967F3C5D938B34F2DDD48.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/GM_EndlessRunner.uasset'
+[2019.03.04-02.47.31:175][ 50]BlueprintLog: New page: Compile GM_EndlessRunner
+[2019.03.04-02.47.32:645][190]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.47.32:674][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.47.32:674][190]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.47.32:676][190]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.47.32:677][190]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.47.32:678][190]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.47.32:678][190]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0185.85] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.47.32:833][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (1 blueprints)
+[2019.03.04-02.47.32:833][190]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.47.33:779][190]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.47.33:782][190]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:47:33 PM)
+[2019.03.04-02.47.33:783][190]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.47.33:785][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002800s)
+[2019.03.04-02.47.33:786][190]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.47.33:786][190]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.03.04-02.47.33:786][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003611s)
+[2019.03.04-02.47.33:835][190]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.47.33:851][190]LogInit: FAudioDevice initialized.
+[2019.03.04-02.47.33:884][190]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.47.33:885][190]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.47.33
+[2019.03.04-02.47.33:885][190]LogWorld: Bringing up level for play took: 0.000429
+[2019.03.04-02.47.33:911][190]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 1.759
+[2019.03.04-02.47.33:912][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.47.33:926][191]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-02.47.51:987][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.47.51:988][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.47.52:023][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.47.52:023][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.47.52:054][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.47.52:092][356]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.04-02.47.53:579][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.47.54:159][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EndlessRunner/Char_EndlessRunner.Char_EndlessRunner
+[2019.03.04-02.47.56:688][782]LogRenderer: Reallocating scene render targets to support 1176x712 Format 10 NumSamples 1 (Frame:1).
+[2019.03.04-02.48.11:102][458]BlueprintLog: New page: Compile Char_EndlessRunner
+[2019.03.04-02.48.12:403][560]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.48.12:404][560]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.48.12:404][560]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0225.58] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.48.12:559][560]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerFB1A0AB841AC77525239ABA8F1E17D5A.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-02.48.12:596][560]LogFileHelpers: Saving map 'EndlessRunner' took 0.243
+[2019.03.04-02.48.12:615][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/Char_EndlessRunner" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/Char_EndlessRunner.uasset" SILENT=true
+[2019.03.04-02.48.12:689][560]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Char_EndlessRunnerC93CA52A4BFC6FE938CE4189BAF8E3DC.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/Char_EndlessRunner.uasset'
+[2019.03.04-02.48.23:459][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/Char_EndlessRunner" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/Char_EndlessRunner.uasset" SILENT=true
+[2019.03.04-02.48.23:518][841]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/Char_EndlessRunner6BBCF05F41150306EF358BA1D286E08E.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/Char_EndlessRunner.uasset'
+[2019.03.04-02.48.36:971][394]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.48.36:996][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.48.36:996][394]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.48.36:998][394]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.48.37:000][394]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.48.37:000][394]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.48.37:000][394]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0250.17] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.48.37:159][394]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2019.03.04-02.48.37:159][394]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.48.42:814][394]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.48.42:818][394]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:48:42 PM)
+[2019.03.04-02.48.42:818][394]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.48.42:821][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2019.03.04-02.48.42:821][394]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.48.42:822][394]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.03.04-02.48.42:822][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003821s)
+[2019.03.04-02.48.42:873][394]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.48.42:890][394]LogInit: FAudioDevice initialized.
+[2019.03.04-02.48.42:921][394]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.48.42:922][394]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.48.42
+[2019.03.04-02.48.42:922][394]LogWorld: Bringing up level for play took: 0.000418
+[2019.03.04-02.48.42:952][394]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 6.8
+[2019.03.04-02.48.42:952][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.48.42:970][395]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-02.49.04:842][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.49.04:842][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.49.04:884][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.49.04:885][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.49.04:919][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.49.04:941][  9]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.04-02.51.02:248][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.51.05:774][789]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/EndlessRunner/BP_FloorTile.BP_FloorTile
+[2019.03.04-02.51.08:643][ 76]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.51.08:644][ 76]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.51.08:644][ 76]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0401.82] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.51.08:799][ 76]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunner478922474BE6E081A64222A68AD1558E.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-02.51.08:837][ 76]LogFileHelpers: Saving map 'EndlessRunner' took 0.253
+[2019.03.04-02.51.39:579][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.51.50:371][ 58]BlueprintLog: New page: Compile BP_FloorTile
+[2019.03.04-02.51.51:428][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.51.51:499][143]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTile84ACCFBC49012EBE1ADB0B80053A329A.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.52.30:285][428]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.04-02.55.33:772][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.55.33:845][152]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTileA438B62E4DAC190E641B6BB0DE3DAE7A.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.56.12:175][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.56.12:251][379]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTileA51CB9F649066C69053229AD14E25FD2.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.56.21:140][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.56.21:214][426]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTileB3944CBB45285F37C343E19ADDF65674.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.56.45:332][188]BlueprintLog: New page: Compile BP_FloorTile
+[2019.03.04-02.56.45:375][188]LogBlueprint: Error: [Compiler BP_FloorTile] The type of  Object  is undetermined.  Connect something to  Cast To Char_EndlessRunner  to imply a specific type.
+[2019.03.04-02.56.45:375][188]LogBlueprint: Error: [Compiler BP_FloorTile] The type of  Object  is undetermined.  Connect something to  Cast To Char_EndlessRunner  to imply a specific type.
+[2019.03.04-02.56.45:379][188]LogBlueprint: Error: [Compiler BP_FloorTile] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.03.04-02.56.45:379][188]LogBlueprint: Error: [Compiler BP_FloorTile] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.03.04-02.56.45:567][188]LogBlueprint: Warning: [Compiler BP_FloorTile] [0738.74] Compile of BP_FloorTile failed. 4 Fatal Issue(s) 0 Warning(s) [in 234 ms] (/Game/MyContent/EndlessRunner/BP_FloorTile.BP_FloorTile)
+[2019.03.04-02.56.48:527][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.56.48:600][502]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTile5CB87CF4415BEA5E6E34E0BDB9B8D575.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.56.53:753][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.56.53:830][ 83]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTileD0E2BEE345D4C7D1EA2B98AA67CAE2C7.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.56.54:449][147]BlueprintLog: New page: Compile BP_FloorTile
+[2019.03.04-02.57.00:842][430]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.57.00:871][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.57.00:871][430]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.57.00:873][430]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.57.00:875][430]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.57.00:875][430]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.57.00:876][430]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0754.05] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.57.01:037][430]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.03.04-02.57.01:037][430]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.57.02:180][430]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.57.02:184][430]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:57:02 PM)
+[2019.03.04-02.57.02:184][430]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.57.02:188][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003610s)
+[2019.03.04-02.57.02:188][430]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.57.02:189][430]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.03.04-02.57.02:189][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.004540s)
+[2019.03.04-02.57.02:237][430]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.57.02:254][430]LogInit: FAudioDevice initialized.
+[2019.03.04-02.57.02:285][430]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.57.02:287][430]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.57.02
+[2019.03.04-02.57.02:287][430]LogWorld: Bringing up level for play took: 0.000575
+[2019.03.04-02.57.02:319][430]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 2.167
+[2019.03.04-02.57.02:319][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.57.14:466][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.57.14:466][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.57.14:507][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.57.14:508][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.57.14:539][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.57.14:571][885]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.04-02.57.17:292][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.58.27:385][145]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.58.27:386][145]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.58.27:386][145]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0840.56] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.58.27:548][145]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerFC5B113D404CC95AA3B8FFBF7F174B8C.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-02.58.27:586][145]LogFileHelpers: Saving map 'EndlessRunner' took 0.258
+[2019.03.04-02.58.51:286][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-02.58.51:363][940]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTile0B57CB02430A5A665D031EA115BE13BD.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-02.59.02:468][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.59.02:489][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.02:489][456]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.59.02:491][456]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.59.02:492][456]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.59.02:493][456]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.59.02:493][456]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0875.66] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.59.02:652][456]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2019.03.04-02.59.02:652][456]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.59.03:798][456]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.59.03:802][456]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:59:03 PM)
+[2019.03.04-02.59.03:802][456]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.59.03:805][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003206s)
+[2019.03.04-02.59.03:806][456]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.59.03:806][456]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2019.03.04-02.59.03:806][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.004009s)
+[2019.03.04-02.59.03:857][456]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.59.03:874][456]LogInit: FAudioDevice initialized.
+[2019.03.04-02.59.03:904][456]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.59.03:905][456]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.59.03
+[2019.03.04-02.59.03:905][456]LogWorld: Bringing up level for play took: 0.000525
+[2019.03.04-02.59.03:936][456]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 1.784
+[2019.03.04-02.59.03:937][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.03:952][457]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-02.59.15:134][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.15:134][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.59.15:167][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.59.15:168][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.15:200][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.59.15:240][799]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.04-02.59.16:355][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-02.59.16:429][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-02.59.16:450][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.16:450][939]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-02.59.16:452][939]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-02.59.16:453][939]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-02.59.16:454][939]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-02.59.16:454][939]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0889.63] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-02.59.16:611][939]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2019.03.04-02.59.16:611][939]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-02.59.17:558][939]LogSlate: Window 'Message' being destroyed
+[2019.03.04-02.59.17:563][939]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 4:59:17 PM)
+[2019.03.04-02.59.17:563][939]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-02.59.17:566][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002953s)
+[2019.03.04-02.59.17:567][939]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-02.59.17:567][939]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.03.04-02.59.17:567][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003889s)
+[2019.03.04-02.59.17:617][939]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-02.59.17:637][939]LogInit: FAudioDevice initialized.
+[2019.03.04-02.59.17:667][939]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-02.59.17:668][939]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-21.59.17
+[2019.03.04-02.59.17:669][939]LogWorld: Bringing up level for play took: 0.000467
+[2019.03.04-02.59.17:700][939]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 1.548
+[2019.03.04-02.59.17:700][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.17:716][940]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-02.59.33:087][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.33:087][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.59.33:121][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-02.59.33:122][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-02.59.33:156][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-02.59.33:191][783]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.04-02.59.36:132][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-03.00.41:582][868]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-03.00.41:583][868]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-03.00.41:583][868]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0974.75] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-03.00.41:742][868]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerBB71C49247109C02FD3C5E9152FEC2D2.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-03.00.41:780][868]LogFileHelpers: Saving map 'EndlessRunner' took 0.248
+[2019.03.04-03.00.41:782][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-03.00.41:851][868]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTile02348AFF4188BF848C0FFE88D278EB00.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-03.01.03:926][696]BlueprintLog: New page: Compile BP_FloorTile
+[2019.03.04-03.01.05:296][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-03.01.05:317][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.01.05:317][809]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-03.01.05:319][809]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-03.01.05:320][809]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-03.01.05:321][809]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-03.01.05:321][809]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [0998.49] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-03.01.05:484][809]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.03.04-03.01.05:484][809]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-03.01.06:526][809]LogSlate: Window 'Message' being destroyed
+[2019.03.04-03.01.06:531][809]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 5:01:06 PM)
+[2019.03.04-03.01.06:531][809]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-03.01.06:534][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003096s)
+[2019.03.04-03.01.06:535][809]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-03.01.06:535][809]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.03.04-03.01.06:535][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003961s)
+[2019.03.04-03.01.06:579][809]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-03.01.06:595][809]LogInit: FAudioDevice initialized.
+[2019.03.04-03.01.06:630][809]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-03.01.06:631][809]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-22.01.06
+[2019.03.04-03.01.06:631][809]LogWorld: Bringing up level for play took: 0.000504
+[2019.03.04-03.01.06:661][809]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 0.508
+[2019.03.04-03.01.06:661][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.01.06:676][810]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-03.01.15:849][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.01.15:850][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-03.01.15:884][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-03.01.15:884][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.01.15:919][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-03.01.15:952][909]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.04-03.01.19:869][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-03.01.37:933][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/EndlessRunner/BP_FloorTile" FILE="../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset" SILENT=true
+[2019.03.04-03.01.38:008][837]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/BP_FloorTile0737D4E9478C7CA800BA629462EF83D0.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/EndlessRunner/BP_FloorTile.uasset'
+[2019.03.04-03.01.44:315][360]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-03.01.44:315][360]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-03.01.44:316][360]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [1037.49] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-03.01.44:476][360]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerCDE8C7134D7CEB37B9F344A64B409C03.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-03.01.44:515][360]LogFileHelpers: Saving map 'EndlessRunner' took 0.250
+[2019.03.04-03.03.39:507][728]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-03.03.39:529][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.03.39:529][728]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-03.03.39:530][728]LogPlayLevel: [PlayLevel] Compiling EndlessRunner before play...
+[2019.03.04-03.03.39:532][728]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-03.03.39:532][728]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-03.03.39:533][728]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [1152.70] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-03.03.39:693][728]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2019.03.04-03.03.39:693][728]BlueprintLog: Blueprint EndlessRunner failed to compile
+[2019.03.04-03.03.40:612][728]LogSlate: Window 'Message' being destroyed
+[2019.03.04-03.03.40:617][728]PIE: New page: PIE session: EndlessRunner (Mar 3, 2019, 5:03:40 PM)
+[2019.03.04-03.03.40:618][728]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_EndlessRunner
+[2019.03.04-03.03.40:621][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2019.03.04-03.03.40:621][728]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.04-03.03.40:621][728]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.03.04-03.03.40:621][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/EndlessRunner.EndlessRunner to /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner (0.003848s)
+[2019.03.04-03.03.40:673][728]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.04-03.03.40:690][728]LogInit: FAudioDevice initialized.
+[2019.03.04-03.03.40:720][728]LogLoad: Game class is 'GM_EndlessRunner_C'
+[2019.03.04-03.03.40:721][728]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2019.03.03-22.03.40
+[2019.03.04-03.03.40:722][728]LogWorld: Bringing up level for play took: 0.000505
+[2019.03.04-03.03.40:756][728]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_EndlessRunner 0.603
+[2019.03.04-03.03.40:756][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.03.40:771][729]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Char_EndlessRunner_C_0', movement 'Walking'
+[2019.03.04-03.04.23:593][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.04.23:594][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-03.04.23:630][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-03.04.23:631][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/MyContent/Maps/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.04-03.04.23:664][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-03.04.23:697][857]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.03.04-03.04.24:342][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-03.04.25:677][943]LogSlate: Window 'Save Content' being destroyed
+[2019.03.04-03.04.25:757][943]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.03.04-03.04.25:757][943]LogBlueprint: Error: [Compiler PersistentLevel.EndlessRunner] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2019.03.04-03.04.25:758][943]LogBlueprint: Warning: [Compiler PersistentLevel.EndlessRunner] [1198.93] Compile of PersistentLevel.EndlessRunner failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/MyContent/Maps/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner)
+[2019.03.04-03.04.25:915][943]LogSavePackage: Moving '../../../../../GitHub/GAME_254/Humber_Game254/Saved/EndlessRunnerAA4368664C74A0B9AC2445818BDF2D49.tmp' to '../../../../../GitHub/GAME_254/Humber_Game254/Content/MyContent/Maps/EndlessRunner.umap'
+[2019.03.04-03.04.25:952][943]LogFileHelpers: Saving map 'EndlessRunner' took 0.254
+[2019.03.04-03.04.26:057][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.04-03.04.26:113][943]LogSlate: Window 'Humber_Game254 - Unreal Editor' being destroyed
+[2019.03.04-03.04.26:281][944]Cmd: QUIT_EDITOR
+[2019.03.04-03.04.26:818][944]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.04-03.04.26:830][944]LogExit: Preparing to exit.
+[2019.03.04-03.04.27:826][944]LogExit: Editor shut down
+[2019.03.04-03.04.27:827][944]LogExit: Transaction tracking system shut down
+[2019.03.04-03.04.28:069][944]LogExit: Object subsystem successfully closed.
+[2019.03.04-03.04.28:086][944]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.04-03.04.28:091][944]LogD3D11RHI: Shutdown
+[2019.03.04-03.04.28:091][944]LogD3D11RHI: CleanupD3DDevice
+[2019.03.04-03.04.28:094][944]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.04-03.04.28:122][944]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.04-03.04.28:123][944]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.04-03.04.28:124][944]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.04-03.04.28:829][944]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.04-03.04.28:830][944]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.04-03.04.28:885][944]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.04-03.04.28:890][944]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.04-03.04.28:892][944]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.04-03.04.28:996][944]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.04-03.04.28:997][944]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.04-03.04.29:000][944]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.04-03.04.29:001][944]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.04-03.04.29:102][944]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.04-03.04.29:203][944]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.04-03.04.29:204][944]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.04-03.04.29:204][944]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.04-03.04.29:204][944]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.04-03.04.29:205][944]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.04-03.04.29:207][944]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.04-03.04.29:213][944]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.04-03.04.29:214][944]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.04-03.04.29:215][944]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.04-03.04.29:216][944]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.04-03.04.29:216][944]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.04-03.04.29:244][944]LogDerivedDataCache: Shutdown
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.04-03.04.29:244][944]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.04-03.04.29:245][944]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.04-03.04.29:246][944]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.04-03.04.29:247][944]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.04-03.04.29:247][944]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.04-03.04.29:252][944]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.04-03.04.29:252][944]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.04-03.04.29:253][944]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.04-03.04.29:253][944]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.04-03.04.29:253][944]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.04-03.04.29:259][944]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.04-03.04.29:259][944]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.04-03.04.29:259][944]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B657A3E16-4D2C-35A4-3F56-52B6C9AA5C95%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=a1f837c944890aae197060832fc1cf75%7Cbd56edaec6234e56a9ac1a3dd2c293f0%7Cc3ee2247-3cd6-4a5b-ab66-fd6ec8529e10&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.04-03.04.29:270][944]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.04-03.04.29:271][944]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.04-03.04.29:271][944]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.04-03.04.29:272][944]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.04-03.04.29:273][944]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.04-03.04.29:276][944]LogExit: Exiting.
+[2019.03.04-03.04.29:281][944]Log file closed, 03/03/19 22:04:29
